@@ -7,6 +7,7 @@ Here you will find my profile assignment.
  * customized prompt
  * welcome cat message
  * weather at the moment
+ * moving cat
  
 ## installing:
 1. On GitHub, navigate to the main page of the repository.
@@ -15,5 +16,12 @@ Here you will find my profile assignment.
 4. Open Terminal.
 5. Type git clone, and then paste the URL you copied in Step 2
 
+make sure to have lolcat installed by: sudo gem install lolcat installed. [example](http://osxdaily.com/2014/07/03/lolcat-rainbow-terminal-command-output/)
+
+## result
+![result](https://github.com/Asprengers/dotfiles/blob/master/result.png)
+
 ## student:
 Amy Sprengers, _student CMD._ 
+
+
